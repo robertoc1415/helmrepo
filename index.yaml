@@ -1,3 +1,4 @@
+#esto lo genere con helm repo index .
 apiVersion: v1
 entries:
   proyecto-mongo:
