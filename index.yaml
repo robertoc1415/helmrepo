@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  proyecto-mongo:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-03-12T19:01:13.7046789-05:00"
+    description: A Helm chart for Kubernetes
+    digest: de20f811a5dad5ebf92d9b386e0f740b1c3786b07941436d2a3d9a7553e75717
+    name: proyecto-mongo
+    type: application
+    urls:
+    - proyecto-mongo-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-03-12T19:01:13.7014198-05:00"
